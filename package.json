@@ -1,0 +1,9 @@
+{
+  "name": "cloud-function-scale-gke",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/container": "^1.7.0",
+    "@google-cloud/pubsub": "^0.30.2",
+    "safe-buffer": "^5.2.0"
+  }
+}
